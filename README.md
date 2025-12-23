@@ -1,61 +1,75 @@
-🏥 Healthcare Analytics Dashboard (Power BI)
+# 🏥 Healthcare Analytics Dashboard (Power BI)
 
-📌 Project Overview :
+## 📌 Project Overview
+An interactive **Healthcare Analytics Dashboard** built using **Power BI** to analyze patient demographics, medical conditions, admission patterns, and revenue performance. The dashboard provides actionable insights to support operational and strategic decision-making in healthcare.
 
-This project presents an interactive Healthcare Analytics Dashboard built using Power BI to analyze patient demographics, admission patterns, medical conditions, and revenue performance.
-The dashboard helps healthcare stakeholders monitor key metrics, identify trends, and support data-driven decision-making.
+---
 
-🎯 Objectives :
+## 🎯 Objectives
+- Analyze patient distribution across demographics and medical conditions  
+- Monitor admission types and seasonal trends  
+- Understand blood group and gender distribution  
+- Track key healthcare performance indicators  
 
-Analyze patient distribution across demographics and medical conditions
-Monitor admission types and seasonal patient trends
-Understand blood group prevalence and gender distribution
-Track key healthcare KPIs such as patient volume, length of stay, and revenue
+---
 
-📊 Key KPIs :
+## 📊 Key KPIs
+- **Total Patient Cases:** 56K  
+- **Average Patient Age:** 48 years  
+- **Average Length of Stay:** 18 days  
+- **Total Healthcare Revenue:** $1.21B  
 
-Total Patient Cases: 56K
-Average Patient Age: 48 years
-Average Length of Stay: 18 days
-Total Healthcare Revenue: $1.21B
+---
 
-🔍 Key Insights :
+## 🔍 Key Insights
+- Emergency admissions dominate overall patient intake  
+- O+ and A+ blood groups are the most common  
+- Gender distribution is nearly balanced  
+- Majority of patients are middle-aged  
+- Patient volumes show noticeable seasonal fluctuations  
 
-Emergency admissions account for the highest number of patient cases
-O+ and A+ blood groups are the most prevalent
-Patient gender distribution is nearly balanced
-Majority of patients fall within the middle-aged group
-Seasonal trends impact monthly patient volumes
+---
 
-🧩 Dashboard Features :
+## 🧩 Dashboard Features
+- Interactive slicers for **Medical Condition, Gender, and Year**  
+- KPI cards for high-level performance monitoring  
+- Visual analysis of:
+  - Patient distribution by blood type and gender  
+  - Cases by admission type  
+  - Medical condition-wise case distribution  
+  - Monthly patient trends  
 
-Interactive slicers for Medical Condition, Gender, and Year
-Dynamic KPI cards for high-level performance tracking
-Visual breakdown of:
-Patient distribution by blood type and gender
-Cases by admission type
-Medical condition-wise case distribution
-Monthly patient trend analysis
-Clean, professional layout optimized for executive reporting
+---
 
-🛠 Tools & Technologies :
+## 🛠 Tools & Technologies
+- Power BI  
+- DAX  
+- Data Modeling  
+- Data Visualization  
 
-Power BI
-DAX
-Data Modeling
-Data Visualization & Analytics
+---
 
-📁 Dataset :
+## 📁 Dataset
+- Synthetic healthcare dataset used for analytical and visualization purposes  
 
-Sample healthcare dataset (Kaggle)
+---
 
-📌 Author :
+## 🚀 How to Use
+1. Download the `.pbix` file from this repository  
+2. Open it in **Power BI Desktop**  
+3. Use slicers to interact with and explore the dashboard  
 
-Ps-analyticshub
-Aspiring Data Analyst | Power BI | Excel | Data Visualization
+---
 
-⭐ If you like this project, don’t forget to star the repository!
+## 📸 Dashboard Preview
+*(Add dashboard screenshot here)*
 
-Write a LinkedIn showcase post
+---
 
-Just tell me 👍
+## 👤 Author
+**Ps Baba**  
+Data Analyst | Power BI | Excel | Data Visualization  
+
+---
+
+⭐ If you found this project useful, please consider starring the repository!
