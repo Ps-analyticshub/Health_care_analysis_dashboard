@@ -54,20 +54,8 @@ An interactive **Healthcare Analytics Dashboard** built using **Power BI** to an
 
 ---
 
-## 🚀 How to Use
-1. Download the `.pbix` file from this repository  
-2. Open it in **Power BI Desktop**  
-3. Use slicers to interact with and explore the dashboard  
-
----
-
-## 📸 Dashboard Preview
-*(Add dashboard screenshot here)*
-
----
-
 ## 👤 Author
-**Ps Baba**  
+**Ps-analyticshub**  
 Data Analyst | Power BI | Excel | Data Visualization  
 
 ---
