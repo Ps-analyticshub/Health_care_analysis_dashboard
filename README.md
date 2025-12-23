@@ -56,7 +56,7 @@ An interactive **Healthcare Analytics Dashboard** built using **Power BI** to an
 
 ## 👤 Author
 **Ps-analyticshub**  
-Data Analyst | Power BI | Excel | Data Visualization  
+Data Analyst | Power BI | Data Visualization  
 
 ---
 
